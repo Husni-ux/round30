@@ -4,26 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de0deab4-0be5-4b16-9cfd-75636769e70c" name="Changes" comment="Updating README.md">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/base/BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/drivers/DriverFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/test/WorkshopTaskNum4Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/test/WorkshopTaskNum5Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/test/WorkshopTaskNum6Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/test/WorkshopTaskNum7Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/test/WorkshopTasksNum1Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/test/WorkshopTasksNum2Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/test/WorkshopTasksNum3Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/SampleTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testPackage/WhatsAppEidSenderFixed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testPackage/WhatsAppEidSenderFixed.java" afterDir="false" />
-    </list>
+    <list default="true" id="de0deab4-0be5-4b16-9cfd-75636769e70c" name="Changes" comment="Updating README.md" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="module" />
+    </option>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
